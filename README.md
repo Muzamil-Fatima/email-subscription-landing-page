@@ -16,9 +16,7 @@ Perfect for newsletters, product updates, or marketing campaigns.
 ---
 
 ## 📷 Preview
-
-![Preview](=Email+Subscription+Landing+Page)
-<img scr="preview.PNG" alt="result of this code preview"></img>
+<img scr="F:\Projects\SubscriptionEmail opt in page\preview.PNG" alt="result of this code preview"></img>
 ---
 
 ## 🛠️ Tech Stack
