@@ -16,7 +16,7 @@ Perfect for newsletters, product updates, or marketing campaigns.
 ---
 
 ## 📷 Preview
-<img scr="F:\Projects\SubscriptionEmail opt in page\preview.PNG" alt="result of this code preview"></img>
+![Preview](preview.PNG)
 ---
 
 ## 🛠️ Tech Stack
