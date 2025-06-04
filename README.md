@@ -17,8 +17,8 @@ Perfect for newsletters, product updates, or marketing campaigns.
 
 ## 📷 Preview
 
-![Preview](https://via.placeholder.com/1200x600.png?text=Email+Subscription+Landing+Page)
-
+![Preview](=Email+Subscription+Landing+Page)
+<img scr="preview.PNG" alt="result of this code preview"></img>
 ---
 
 ## 🛠️ Tech Stack
